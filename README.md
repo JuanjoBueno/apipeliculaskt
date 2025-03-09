@@ -77,6 +77,23 @@ class MoviesViewModel : ViewModel() {
 - **Gestión de estado:** StateFlow + ViewModel
 - **Carga de imágenes:** Coil
 
+## Objetivos no alcanzados
+
+### 4. Uso de Biblioteca Externa para Gráficas
+-  Integración de una biblioteca externa para la representación de gráficas.
+-  Implementación funcional y adaptada a Jetpack Compose.
+
+### 5. Creación de un Componente de Gráficas sin Biblioteca Externa
+-  Desarrollo de un componente que represente gráficas sin depender de librerías externas.
+-  Correcto uso de Canvas y otros elementos nativos de Jetpack Compose.
+
+### 6. Comunicación con un Servidor mediante WebSockets
+-  Implementación de un sistema funcional de comunicación en tiempo real.
+-  Manejo adecuado de eventos y estados en la comunicación con WebSockets.
+
+### 7. Uso de VerticalPager o Similar
+- Implementación de VerticalPager o una alternativa adecuada.
+- Correcta navegación y adaptación a la interfaz de usuario.
 
 
 
